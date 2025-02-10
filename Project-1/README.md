@@ -1,4 +1,4 @@
-# 🌍 Cloud Setup & First Web Server
+# 🌍 Cloud Setup & First Web Server 
 
 ## 🚀 Setting Up a Project & Compute Engine in GCP  
 
