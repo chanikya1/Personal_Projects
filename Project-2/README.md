@@ -1,4 +1,4 @@
-## Project 2: Serverless Solutions with Cloud Functions
+## Project 2: Serverless Solutions with Cloud Functions 
 
 ### Project Overview
 
