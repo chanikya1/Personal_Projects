@@ -9,7 +9,7 @@
 4. Link a **Billing Account** (free-tier covers most basic use cases).  
 5. Click **Create** and wait for the project setup to finish.  
 
-![alt text](project.png)
+![project.png](project.png)
 
 ### **Step 2: Enable Compute Engine**  
 1. In the left navigation menu, go to **APIs & Services > Library**.  
@@ -31,7 +31,7 @@
    - ✅ Allow HTTPS traffic  
 6. Click **Create** and wait for your VM to launch.  
 
-![alt text](Compute-Engine.png)
+![Compute-Engine.png](Compute-Engine.png)
 
 ### **Step 4: Connect to the VM & Install a Web Server**  
 1. Once the VM is running, click **SSH** to open a terminal.  
@@ -87,4 +87,4 @@
 
 You should now see your meme displayed along with your name as below! 🎉  
 
-![alt text](Meme.png)
+![Meme.png](Meme.png)
