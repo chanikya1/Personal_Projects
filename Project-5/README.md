@@ -1,4 +1,4 @@
-# 🌍 Project-5: Simple RESTful Application
+# 🌍 Project-5: Simple RESTful Application 
 
 ## 🚀 Setting Up and Configuring a RESTful API for Microservices Integration
 
